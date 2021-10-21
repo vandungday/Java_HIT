@@ -1,0 +1,18 @@
+package Bai4;
+
+import java.util.Scanner;
+//import java.lang.String;
+public class RunMain {
+	public static void main(String[] args) {
+		System.out.print("Nhap chuoi: ");
+		Scanner sc = new Scanner(System.in);
+		String s = sc.nextLine();
+		s = s.trim();
+		System.out.println("S =" +  s);
+		s = s.replaceAll("\\s+"," ");
+		System.out.println("S =" +  s);	
+		s = s.replaceAll("[^A-Za-z]"," ");
+		System.out.println("S =" +  s);
+			
+	}
+}

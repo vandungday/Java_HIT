@@ -1,0 +1,14 @@
+package Bai4;
+
+import java.util.Scanner;
+import java.lang.String;
+public class RunMain {
+	public static void main(String[] args) {
+		System.out.println("Nhap chuoi: ");
+		Scanner sc = new Scanner(System.in);
+		String s = sc.nextLine();
+		s.trim();
+		System.out.println("S = ", s);
+		
+	}
+}
