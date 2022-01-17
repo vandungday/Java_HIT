@@ -1,0 +1,11 @@
+100|Dũng|Nam|19|Thanh Hoá|0936786901
+101|Huy|nam|19|Thanh Hóa|1800919800
+102|Tiến|nam|20|Phú Bình|0999888999
+103|Thúy Đoàn|nữ|19|Nghệ An|0936777888
+104|Minh|nữ|20|Vĩnh Phúc|111122223333
+105|Dũng Lê|nữ|10|Nam Định|0009990000
+106|Nam Môn|nữ|19|ok|99990009999
+107|Bá Khang|nam|10|Hải Dương|222333444555
+108|Cháng|nam|19|Vĩnh Phúc|0986787999
+109|Mạnh Hùng|nam|6|Xóm Dương|0333666888
+110|Ok|nam|18|ok|099990000999

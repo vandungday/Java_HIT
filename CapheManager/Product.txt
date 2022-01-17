@@ -1,0 +1,14 @@
+1|Cà Phê Đen|30000.0|46
+2|Cà Phê Nâu|30000.0|50
+3|Trà Sữa Khoai Lang|30000.0|100
+4|Trà Sữa Socolate|30000.0|100
+5|Soda Bạc Hà|30000.0|100
+6|Matcha|35000.0|100
+7|Trái Cây Dầm|70000.0|100
+8|Hướng Dương|10000.0|80
+9|Bạc Xỉu|30000.0|50
+10|Trà Đào Cam Xả|30000.0|59
+11|Trà Sữa Phúc Long|30000.0|100
+12|Chocolate|20000.0|149
+13|Bánh Tráng Trộn|10000.0|99
+14|Khoai Tây Chiên|25000.0|98
